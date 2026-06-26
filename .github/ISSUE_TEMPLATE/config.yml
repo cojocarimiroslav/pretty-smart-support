@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: PRetty Smart support guidance
+    url: https://github.com/cojocarimiroslav/pretty-smart-support/blob/main/SUPPORT.md
+    about: Read troubleshooting steps before opening an issue.
