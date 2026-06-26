@@ -1,0 +1,17 @@
+PRetty Smart License
+
+Copyright © 2026 PRetty Smart contributors. All rights reserved.
+
+This software is proprietary. You may install and use PRetty Smart only for personal or internal development workflows through the official distribution channels where PRetty Smart is made available.
+
+You may not copy, modify, redistribute, sublicense, sell, rent, lease, publish, or create derivative works from PRetty Smart, except where expressly allowed by applicable law or by a separate written agreement from the copyright holder.
+
+You may not reverse engineer, decompile, or disassemble PRetty Smart, except where such restriction is prohibited by applicable law.
+
+PRetty Smart is provided “as is”, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, availability, accuracy, or reliability.
+
+In no event shall the authors, copyright holders, or contributors be liable for any claim, damages, loss, liability, or other consequence arising from, out of, or in connection with PRetty Smart or the use of PRetty Smart, whether in an action of contract, tort, or otherwise.
+
+PRetty Smart may interact with third-party services, including Visual Studio Code, GitHub, Logitech software, GitHub Copilot, OpenAI-compatible APIs, or other configured providers. Those services are governed by their own terms and policies.
+
+Use of PRetty Smart does not grant ownership of PRetty Smart, its source code, trademarks, branding, or other intellectual property.
