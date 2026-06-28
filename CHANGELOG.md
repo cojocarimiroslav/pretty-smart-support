@@ -1,5 +1,28 @@
 # Changelog
 
+## 0.1.1
+
+Maintenance and release cleanup update.
+
+### Changed
+
+- Simplified the VS Code extension contribution metadata to reduce confusing menu and command-palette entries.
+- Kept the public extension surface focused on the supported PRetty Smart workflow.
+- Updated package metadata for a cleaner Marketplace release.
+
+### Removed
+
+- Removed experimental, debug, and development-only commands from the public VS Code UI.
+- Removed confusing menu entries that were not needed for the Logitech-driven workflow.
+- Removed unreleased or unreliable review actions from the public command surface.
+- Removed leftover references to non-final review workflows from the extension package metadata.
+
+### Notes
+
+- Core Logitech-to-VS Code local bridge behavior is unchanged.
+- This update is focused on Marketplace polish and reducing user-facing confusion.
+
+
 ## 0.1.0
 
 Initial public release target.
